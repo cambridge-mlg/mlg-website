@@ -134,3 +134,12 @@ I also work on multi-objective Bayesian optimization. Before starting my PhD in 
 I completed a Joint BSc (Hons) in Mathematics and Computer Science at the University of St Andrews and an MPhil in [Machine Learning and Machine Intelligence](http://www.mlsalt.eng.cam.ac.uk/) at the University of Cambridge, and worked for a year as a research assistant to Dr Hernández-Lobato at the CBL.
 
 
+{{< figure src="/images/ashman_matt.jpg" class="profile-image">}}
+
+### Matthew Ashman
+
+I'm a PhD student supervised by [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and a member of St John's College. Prior to starting my PhD in 2020, I studied for the MPhil in [Machine Learning and Machine Intelligence](https://www.mlmi.eng.cam.ac.uk/) and the MEng in [Information and Computer Engineering](https://www.undergraduate.study.cam.ac.uk/courses/engineering), both at the University of Cambridge. 
+
+I am interested in building rich probabilistic models, in particular those involving Gaussian processes, and addressing the challenges of performing approximate inference. You can find more information on my [personal website](https://mattashman.github.io/).
+
+

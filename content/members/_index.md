@@ -134,7 +134,7 @@ I also work on multi-objective Bayesian optimization. Before starting my PhD in 
 I completed a Joint BSc (Hons) in Mathematics and Computer Science at the University of St Andrews and an MPhil in [Machine Learning and Machine Intelligence](http://www.mlsalt.eng.cam.ac.uk/) at the University of Cambridge, and worked for a year as a research assistant to Dr Hernández-Lobato at the CBL.
 
 
-{{< figure src="/images/jasmine_stone.jpg" class="profile-image">}}
+{{< figure src="/images/jasmine_stone.jpeg" class="profile-image">}}
 
 ### Jasmine Stone
 

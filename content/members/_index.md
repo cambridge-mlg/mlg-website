@@ -30,7 +30,7 @@ Research: I'm interested in the theory and practice of understanding and buildin
 ### Zoubin Ghahramani
 
 
-Zoubin Ghahramani is Professor of Information Engineering at the University of Cambridge and Chief Scientist at Uber. He is also Deputy Director of the Leverhulme Centre for the Future of Intelligence, and a Fellow of St John's College. He was a founding Cambridge Director of the Alan Turing Institute, the UK’s national institute for data science. He has worked and studied at the University of Pennsylvania, MIT, the University of Toronto, the Gatsby Unit at University College London, and Carnegie Mellon University. His research focuses on probabilistic approaches to machine learning and artificial intelligence, and he has published over 250 research papers on these topics. He was co-founder of Geometric Intelligence (now Uber AI Labs) and advises a number of AI and machine learning companies. In 2015, he was elected a Fellow of the Royal Society for his contributions to machine learning. 
+Zoubin Ghahramani is Professor of Information Engineering at the University of Cambridge and Chief Scientist at Uber. He is also Deputy Director of the Leverhulme Centre for the Future of Intelligence, and a Fellow of St John's College. He was a founding Cambridge Director of the Alan Turing Institute, the UK’s national institute for data science. He has worked and studied at the University of Pennsylvania, MIT, the University of Toronto, the Gatsby Unit at University College London, and Carnegie Mellon University. His research focuses on probabilistic approaches to machine learning and artificial intelligence, and he has published over 250 research papers on these topics. He was co-founder of Geometric Intelligence (now Uber AI Labs) and advises a number of AI and machine learning companies. In 2015, he was elected a Fellow of the Royal Society for his contributions to machine learning.
 
 
 {{< figure src="/images/jmhl.jpg" class="profile-image">}}
@@ -47,7 +47,7 @@ Since Sep 2016, I am a University Lecturer (equivalent to US Assistant Professor
 ### Adrian Weller
 
  Adrian Weller is a Principal Research Fellow in Machine Learning at the University of Cambridge, and at the Leverhulme Centre for the Future of Intelligence where he is Programme Director for Trust and Society. He is Programme Director for AI at The Alan Turing Institute, the UK national institute for data science and AI, where he is also a Turing Fellow leading work on safe and ethical AI. His interests span AI, its commercial applications and helping to ensure beneficial outcomes for society, including: explainability, fairness, robustness, scalability, privacy, safety, ethics and finance.
- 
+
  He serves on several boards including the Centre for Data Ethics and Innovation. He is co-director of the European Laboratory for Learning and Intelligent Systems (ELLIS) programme on Human-centric Machine Learning, and a member of the UNESCO Ad Hoc Expert Group on the Ethics of AI. Previously, Adrian held senior roles in finance.
 
 ## Post-docs
@@ -58,7 +58,7 @@ Since Sep 2016, I am a University Lecturer (equivalent to US Assistant Professor
 
 I am a research fellow in the Machine Learning Group at University of Cambridge, working with Prof. Zoubin Ghahramani and with Dr. Rich Turner. Before that, I was a postdoctoral researcher at the Amsterdam Machine Learning Lab (AMLAB), advised by Prof. Max Welling. I have obtained my PhD from the University of Waterloo, Ontario, Canada in 2014.
 
-My main research interests are circulated around probabilistic graphical models (PGMs), Bayesian inference and learning, interpretability and fairness of ML models, (deep) generative models, learning with weak supervision, especially transfer learning and domain adaptation, deep learning, reinforcement learning, continual learning, meta-learning and medical (especially MRI) applications of ML. 
+My main research interests are circulated around probabilistic graphical models (PGMs), Bayesian inference and learning, interpretability and fairness of ML models, (deep) generative models, learning with weak supervision, especially transfer learning and domain adaptation, deep learning, reinforcement learning, continual learning, meta-learning and medical (especially MRI) applications of ML.
 
 Here is my [Webpage](https://tameemadel.wordpress.com/).
 
@@ -83,7 +83,7 @@ graphics, and machine learning.
 Hey, 👋🏼! My name is Wessel.
 I am a PhD student at the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Dr Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner), and a member of Christ's College.
 Previously, I was a machine learning researcher for [Invenia Labs](https://invenialabs.co.uk); they solve problems in the fields of machine learning, finance, electricity systems and markets, and complex systems.
-Even before that, I was an electrical engineer for the [TU Delft Solar Boat Team](http://www.solarboatteam.nl/). 
+Even before that, I was an electrical engineer for the [TU Delft Solar Boat Team](http://www.solarboatteam.nl/).
 
 I hold an MPhil in [Machine Learning and Machine Intelligence](http://www.mlsalt.eng.cam.ac.uk/) from the University of Cambridge and a BSc in [Electrical Engineering](https://www.tudelft.nl/en/education/programmes/bachelors/ee/bachelor-of-electrical-engineering/) from the University of Delft.
 My personal website can be found [here](https://wesselb.github.io/).
@@ -94,11 +94,11 @@ My research interests include probabilistic modelling with a focus on Gaussian p
 
 ### Andrew Y. K. Foong
 
-I'm a PhD student supervised by [Professor Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner), and a member of Trinity Hall. 
-I work primarily on probabilistic modelling and deep learning. 
-My work to date has focused on understanding the effects of approximate inference in Bayesian neural networks, and on incorporating convolutional architectures into Neural Processes, which are used for meta-learning. 
+I'm a PhD student supervised by [Professor Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner), and a member of Trinity Hall.
+I work primarily on probabilistic modelling and deep learning.
+My work to date has focused on understanding the effects of approximate inference in Bayesian neural networks, and on incorporating convolutional architectures into Neural Processes, which are used for meta-learning.
 I started my PhD in 2018, and prior to that I obtained my BA and MEng in Information Engineering at the University of Cambridge.
-I tweet occasionally about my research [here](https://twitter.com/AndrewFoongYK). 
+I tweet occasionally about my research [here](https://twitter.com/AndrewFoongYK).
 
 
 {{< figure src="/images/austin-tripp.jpg" class="profile-image">}}
@@ -128,9 +128,9 @@ You can find more information on [my personal webpage](https://vdutor.github.io/
 
 {{< figure src="/images/gergely_flamich.jpg" class="profile-image">}}
 
-I'm a PhD student working with Dr José Miguel Hernández-Lobato and a member of St John's College. 
-I am broadly interested in probabilistic modelling with a particular interest in data compression, unsupervised learning and variational inference. 
-I also work on multi-objective Bayesian optimization. Before starting my PhD in 2020, 
+I'm a PhD student working with Dr José Miguel Hernández-Lobato and a member of St John's College.
+I am broadly interested in probabilistic modelling with a particular interest in data compression, unsupervised learning and variational inference.
+I also work on multi-objective Bayesian optimization. Before starting my PhD in 2020,
 I completed a Joint BSc (Hons) in Mathematics and Computer Science at the University of St Andrews and an MPhil in [Machine Learning and Machine Intelligence](http://www.mlsalt.eng.cam.ac.uk/) at the University of Cambridge, and worked for a year as a research assistant to Dr Hernández-Lobato at the CBL.
 
 
@@ -138,9 +138,9 @@ I completed a Joint BSc (Hons) in Mathematics and Computer Science at the Univer
 
 ### Jasmine Stone
 
-I am an [MPhil in Engineering](https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmeg) student working with [Dr. Guillaume Hennequin](https://ghennequin.github.io/people/hennequin/) for the 2020-21 year, and a member of Churchill College. I am supported by a [Churchill Scholarship](https://www.churchillscholarship.org/). I am broadly interested in motor-control, learning, and memory and am currently working on developing methods for analyzing neural data using Gaussian Process methods. 
+I am an [MPhil in Engineering](https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmeg) student working with [Dr. Guillaume Hennequin](https://ghennequin.github.io/people/hennequin/) for the 2020-21 year, and a member of Churchill College. I am supported by a [Churchill Scholarship](https://www.churchillscholarship.org/). I am broadly interested in motor-control, learning, and memory and am currently working on developing methods for analyzing neural data using Gaussian Process methods.
 
-I recently graduated from Yale with a B.S. in Computer Science where I developed and released [PsychRNN](https://psychrnn.readthedocs.io/), a software package for modeling decision-making, memory, and other cognitive tasks using recurrent neural networks under the supervision of [Dr. John Murray](https://medicine.yale.edu/lab/murray/pi/). I previously researched human depth processing with Drs. [Alex Huk](http://motion.cps.utexas.edu/people/alex-huk/) and [Larry Cormack](https://liberalarts.utexas.edu/psychology/faculty/lkc3) at UT Austin, and  I researched algorithms for calcium ion imaging with [Dr. Jeremy Freeman](https://www.janelia.org/freeman-lab) at Janelia. I also interned at Google and at [CTRL-Labs](https://www.ctrl-labs.com/), a brain machine interface company recently acquired by Facebook. 
+I recently graduated from Yale with a B.S. in Computer Science where I developed and released [PsychRNN](https://psychrnn.readthedocs.io/), a software package for modeling decision-making, memory, and other cognitive tasks using recurrent neural networks under the supervision of [Dr. John Murray](https://medicine.yale.edu/lab/murray/pi/). I previously researched human depth processing with Drs. [Alex Huk](http://motion.cps.utexas.edu/people/alex-huk/) and [Larry Cormack](https://liberalarts.utexas.edu/psychology/faculty/lkc3) at UT Austin, and  I researched algorithms for calcium ion imaging with [Dr. Jeremy Freeman](https://www.janelia.org/freeman-lab) at Janelia. I also interned at Google and at [CTRL-Labs](https://www.ctrl-labs.com/), a brain machine interface company recently acquired by Facebook.
 
 For more details about me, see my [LinkedIn](https://www.linkedin.com/in/jasmine-stone/), [Google Scholar](https://scholar.google.com/citations?user=9wJGGvMAAAAJ&hl=en), or [GitHub](https://github.com/syncrostone). I tweet occasionally about my research [here](https://twitter.com/syncrostone). You can reach me at [jts58@cam.ac.uk](mailto:jts58@cam.ac.uk).
 
@@ -149,7 +149,16 @@ For more details about me, see my [LinkedIn](https://www.linkedin.com/in/jasmine
 
 ### Matthew Ashman
 
-I'm a PhD student supervised by [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and a member of St John's College. Prior to starting my PhD in 2020, I studied for the MPhil in [Machine Learning and Machine Intelligence](https://www.mlmi.eng.cam.ac.uk/) and the MEng in [Information and Computer Engineering](https://www.undergraduate.study.cam.ac.uk/courses/engineering), both at the University of Cambridge. 
+I'm a PhD student supervised by [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and a member of St John's College. Prior to starting my PhD in 2020, I studied for the MPhil in [Machine Learning and Machine Intelligence](https://www.mlmi.eng.cam.ac.uk/) and the MEng in [Information and Computer Engineering](https://www.undergraduate.study.cam.ac.uk/courses/engineering), both at the University of Cambridge.
 
 I am interested in building rich probabilistic models, in particular those involving Gaussian processes, and addressing the challenges of performing approximate inference. You can find more information on my [personal website](https://mattashman.github.io/).
 
+{{< figure src="/images/james_allingham.jpg" class="profile-image">}}
+
+### James Allingham
+
+I am a PhD student in the Machine Learning Group at the University of Cambridge, supervised by [José Miguel Hernández-Lobato](https://jmhl.org/), and a member of Darwin College. Before starting the PhD, I was a consultant for Wolfram Research where I helped develop the deep learning library for Mathematica.
+
+I hold an MPhil in Advanced Machine Learning from the University of Cambridge, which was supervised by [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/), and a BSc in Electrical and Information Engineering from the University of the Witwatersrand in Johannesburg.
+
+My primary research interests are at the intersection of deep learning and probabilistic ML, specifically Bayesian neural networks and deep generative models. You can find more information on my [personal website](https://jamesallingham.co.za/) or by checking out my [twitter](https://twitter.com/JamesAllingham).

@@ -162,3 +162,11 @@ I am a PhD student in the Machine Learning Group at the University of Cambridge,
 I hold an MPhil in Advanced Machine Learning from the University of Cambridge, which was supervised by [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/), and a BSc in Electrical and Information Engineering from the University of the Witwatersrand in Johannesburg.
 
 My primary research interests are at the intersection of deep learning and probabilistic ML, specifically Bayesian neural networks and deep generative models. You can find more information on my [personal website](https://jamesallingham.co.za/) or by checking out my [twitter](https://twitter.com/JamesAllingham).
+
+{{< figure src="/images/jirihron.jpg" class="profile-image">}}
+
+### Jiri Hron
+
+I joined the group in October 2017 as a member of [Trinity College](https://www.trin.cam.ac.uk/). My supervisors are [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner) and [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/), and I am advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
+
+One of the main topics I have worked on so far is theory of deep learning with focus on overparametrisation. Recently, I got interested in exploration and more generally the interplay between data collection and performance of statistical models, especially when considered in a broader social and economic context. For more info, visit my [personal website](https://sites.google.com/corp/view/jirihron) or [Google Scholar](https://scholar.google.com/citations?user=Jp7hKlAAAAAJ).

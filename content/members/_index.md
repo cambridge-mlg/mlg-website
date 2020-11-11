@@ -170,3 +170,14 @@ My primary research interests are at the intersection of deep learning and proba
 I joined the group in October 2017 as a member of [Trinity College](https://www.trin.cam.ac.uk/). My supervisors are [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner) and [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/), and I am advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
 
 One of the main topics I have worked on so far is theory of deep learning with focus on overparametrisation. Recently, I got interested in exploration and more generally the interplay between data collection and performance of statistical models, especially when considered in a broader social and economic context. For more info, visit my [personal website](https://sites.google.com/corp/view/jirihron) or [Google Scholar](https://scholar.google.com/citations?user=Jp7hKlAAAAAJ).
+
+
+{{< figure src="/images/elre_oldewage.jpg" class="profile-image">}}
+
+### Elre T. Oldewage
+
+I'm a PhD student in the Machine Learning Group supervised by [Professor Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner). I'm a member of Churchill College and am funded by a Schlumberger Cambridge Scholarship. 
+My interests lie in robust machine learning and adversarial attacks. My recent work has focused on developing adversarial attacks against meta-learners, speficially few-shot learners for now.
+You can find me on [Google Scholar](https://scholar.google.co.za/citations?user=D30MoYMAAAAJ) or [Github](https://github.com/cravingoxygen).
+I previously studied at the University of Pretoria, South Africa, where I completed my BSc, BSc(Hons) and MSc in Computer Science, as well as a BSc (Hons) degree in Mathematics. 
+

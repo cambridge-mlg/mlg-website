@@ -181,3 +181,9 @@ My interests lie in robust machine learning and adversarial attacks. My recent w
 You can find me on [Google Scholar](https://scholar.google.co.za/citations?user=D30MoYMAAAAJ) or [Github](https://github.com/cravingoxygen).
 I previously studied at the University of Pretoria, South Africa, where I completed my BSc, BSc(Hons) and MSc in Computer Science, as well as a BSc (Hons) degree in Mathematics. 
 
+
+{{< figure src="/images/Weiyang_Liu.jpeg" class="profile-image">}}
+
+### Weiyang Liu
+
+I joined the group in October 2020 as a fellow of the Cambridge-Tübingen program. I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Bernhard Schölkopf](https://www.is.mpg.de/~bs). I am advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner). I am also a student fellow of Leverhulme Centre for the Future of Intelligence. Previously, I graduated from Georgia Institute of Technology. I am generally interested in representation learning and causality. For more of my research, please visit my [website](https://wyliu.com/).

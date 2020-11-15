@@ -187,3 +187,11 @@ I previously studied at the University of Pretoria, South Africa, where I comple
 ### Weiyang Liu
 
 I joined the group in October 2020 as a fellow of the Cambridge-Tübingen program. I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Bernhard Schölkopf](https://www.is.mpg.de/~bs). I am advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner). I am also a student fellow of Leverhulme Centre for the Future of Intelligence. Previously, I graduated from Georgia Institute of Technology. I am generally interested in representation learning and causality. For more of my research, please visit my [website](https://wyliu.com/).
+
+{{< figure src="/images/will_tebbutt.jpeg" class="profile-image">}}
+
+### Will Tebbutt
+
+I'm a PhD student in the Machine Learning Group, supervised by [Rich Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner). I'm a member of [Darwin College](https://www.darwin.cam.ac.uk/) and am funded by Deepmind. My research interests centre around Gaussian processes: how to scale them to large spatio-temporal problems, how they ought to fit inside probabilistic programming systems, and they can be utilised to combine the predictions of collections of climate models.
+
+You can find me on [Google Scholar](https://scholar.google.com/citations?user=lFKWc8MAAAAJ&hl=en&oi=ao), [Github](https://github.com/willtebbutt/), or on my [personal website](https://willtebbutt.github.io/).

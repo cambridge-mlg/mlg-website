@@ -187,3 +187,17 @@ I previously studied at the University of Pretoria, South Africa, where I comple
 ### Weiyang Liu
 
 I joined the group in October 2020 as a fellow of the Cambridge-Tübingen program. I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Bernhard Schölkopf](https://www.is.mpg.de/~bs). I am advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/Turner). I am also a student fellow of Leverhulme Centre for the Future of Intelligence. Previously, I graduated from Georgia Institute of Technology. I am generally interested in representation learning and causality. For more of my research, please visit my [website](https://wyliu.com/).
+
+{{< figure src="/images/ross_clarke.png" class="profile-image">}}
+
+### Ross Clarke
+
+Since joining the group as a PhD student in 2018, my research has explored
+the automation and democratisation of machine learning, including aspects of
+hyperparameter optimisation and architecture search, with additional interests
+in the ethics and societal implications of our field. I'm supervised by [Dr José
+Miguel Hernández-Lobato](https://jmhl.org/) under funding from EPSRC.
+Previously, I received the BA and MEng degrees in Engineering from the
+University of Cambridge, specialising in Information and Computer Engineering,
+with a year's study of topics in Software Engineering and Aeronautics at the
+Massachusetts Institute of Technology.

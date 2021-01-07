@@ -189,3 +189,9 @@ Previously, I received the BA and MEng degrees in Engineering from the
 University of Cambridge, specialising in Information and Computer Engineering,
 with a year's study of topics in Software Engineering and Aeronautics at the
 Massachusetts Institute of Technology.
+
+### Vincent Stimper
+
+I am a PhD student in the [ELLIS program](https://ellis.eu/phd-postdoc) being supervised by [Jose Miguel Hernandez Lobato](https://jmhl.org/) (University of Cambridge) and [Bernhard Schölkopf](https://is.mpg.de/person/bs) (Max Planck Institute for Intelligent Systems). At the moment, I am working in the Empirical Inference Department at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Cambridge-Tübingen PhD Fellowship is generously funded by Amazon. My mission is to create theoretically substantiated machine learning algorithms for natural science and engineering applications. More information can be found on my [Max Planck Institute website](https://is.mpg.de/person/vstimper).
+
+{{< figure src="/images/vincent_stimper.jpg" class="profile-image">}}
